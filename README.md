@@ -7,6 +7,5 @@ Current dataset includes Stop Sign images, Speed limit 35 and no sign at all.
 ### Data Augmentation:
 Applied random effects to original images using Imgaug Library and increased data by 3x and made sure spatial information isn’t lost after data augmentation
 ### Model architecture:
-![alt text](https://photos.app.goo.gl/4vjbaoX44fMcvDSF7)
-
+![Blank diagram (3)](https://user-images.githubusercontent.com/38468068/207135368-db710c8d-2b1a-45f6-910e-006ef806a3fd.jpg)
 
